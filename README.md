@@ -44,5 +44,6 @@ Durante o desenvolvimento deste projeto pratiquei:
 
 Lucas Mendonça
 
-GitHub:
-https://github.com/lucasmms-dev
+## 🚀 Como Visualizar
+
+Você pode acessar o projeto diretamente através do link do GitHub Pages: https://lucasmms-dev.github.io/projeto-portfolio-pessoal/
